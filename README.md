@@ -21,7 +21,7 @@ The new features that we want to include, but is not limited to;
 
 ## Contribute
 
-Contrubiton guide will be here shortly! Also, you can always open issues about feature requests, bug fixses etc. on GitHub.
+Contrubiton guide will be here shortly! Also, you can always open issues about feature requests, bug fixes etc. on GitHub.
 
 ## Join the Discussion
 
