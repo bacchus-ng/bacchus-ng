@@ -10,13 +10,13 @@ OpenBacchus-NG is going to be a complete rewrite of Open Bacchus project with us
 
 The new features that we want to include, but is not limited to;
 
-- [ ] Brand new and web interface
-- [ ] Performance upgrades
+- [ ] Brand new web interface with new cool features.
+- [ ] Performance upgrades.
 - [ ] Support for oVirt/RHEV version 4.2.5 and beyond.
-- [ ] LDAP/AD support
-- [ ] Retention policy (feature-request) 
-- [ ] Proxy support (feature-request)
-- [ ] Job-by-Job backups (feature-request)
+- [ ] LDAP/AD support.
+- [ ] Retention policy (feature-request).
+- [ ] Proxy support (feature-request).
+- [ ] Job-by-Job backups (feature-request).
 
 
 ## Contribute
