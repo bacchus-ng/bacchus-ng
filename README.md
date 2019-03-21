@@ -1,6 +1,6 @@
 # What is OpenBacchus?
 
-Open Bacchus Project is a VM level protection solution for oVirt/RHV environments. It is being developed based on Python 2.7, Django 1.10 and oVirt Python SDK 4.1. Please be aware that it is still under development. Thank you for checking it out.
+Open Bacchus Project is a VM level protection solution for oVirt/RHV environments. It was based on Python 2.7, Django 1.10 and oVirt Python SDK 4.1. 
 
 ## What is OpenBacchus: Next-Gen?
 
